@@ -86,6 +86,9 @@ dist
 # Idea
 .idea
 
+# README
+README.md
+
 # Logs
 logs
 *.log
